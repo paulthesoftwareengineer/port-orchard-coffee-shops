@@ -1,0 +1,17 @@
+
+[
+    {
+      "id": 1,
+      "name": "Coffee Shop 1",
+      "address": "123 Main St",
+      "phone": "(123) 456-7890"
+    },
+    {
+      "id": 2,
+      "name": "Coffee Shop 2",
+      "address": "456 Maple Ave",
+      "phone": "(987) 654-3210"
+    },
+    
+  ]
+  
